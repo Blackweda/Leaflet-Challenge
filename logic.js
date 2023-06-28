@@ -3,8 +3,7 @@
 // https://utoronto.bootcampcontent.com/utoronto-bootcamp/UTOR-VIRT-DATA-PT-02-2023-U-LOLC/-/blob/main/Unit%2015%20-%20Leaflet/Class%20Activities/Class%202/02-Evr_HydrantsHeatmap/Solved/static/js/heatmap.js
 // Store our API endpoint as queryUrl.
 
-//let queryUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson";
-let queryUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
+let queryUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson";
 
 
 let earthquakeCircles = []
